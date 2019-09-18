@@ -14,8 +14,8 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-# Apple Card is Here.
-## A new kind of credit card. Created by Apple, not a bank.
+![](./imgs/hero_headline.png)
+# A new kind of credit card. Created by Apple, not a bank.
 
 [Apply](marquise.helix-demo.xyz)
 
@@ -31,7 +31,7 @@ And it’s the first card that actually encourages you to pay less interest.
 
 Whether you buy things with Apple Pay or with the laser‑etched titanium card, Apple Card can do things no other credit card can do.
 
-![Apple Card Image](card.jpg, "")
+![](./imgs/hero.jpg)
 ---
 
 ## The power of iPhone. In a credit card.
@@ -40,7 +40,7 @@ Apple Card lives on your iPhone, in the Wallet app. And that makes all kinds of 
 
 You can sign up in no time and start using it right away with Apple Pay.1 For every purchase you make, you get Daily Cash. And it really is cash. So you can spend it however you want, right from your iPhone. Have a question? Just text. It’s that simple.
 
-![Apple Device](device.png)
+![Apple Device](./device.png)
 ---
 
 ## You'll know so much more about your spending. At a glance.
