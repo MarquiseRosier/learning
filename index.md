@@ -17,7 +17,7 @@
 # Apple Card is Here.
 ## A new kind of credit card. Created by Apple, not a bank.
 
-[Apply]: http:www.google.com
+[Apply]: marquise.helix-demo.xyz
 
 ---
 
