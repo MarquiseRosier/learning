@@ -9,13 +9,13 @@
  * OF ANY KIND, either express or implied. See the License for the specific language
  * governing permissions and limitations under the License.
  */
-@import url("./styles/ac-globalfooter.built.css");
-@import url("./stles/ac-localnav.built.css");
-@import url("./stlyes/main.built.css");
-@import url("./styles/overview.built.css");
-@import url("./styles/ac-globalnav.built.css");
-@import url("./styles/ac-video.css");
-@import url("./styles/modal.css");
+@import url("styles/ac-globalfooter.built.css");
+@import url("stles/ac-localnav.built.css");
+@import url("stlyes/main.built.css");
+@import url("styles/overview.built.css");
+@import url("styles/ac-globalnav.built.css");
+@import url("styles/ac-video.css");
+@import url("styles/modal.css");
 
 body {
     padding: 8px;
