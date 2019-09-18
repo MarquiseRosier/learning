@@ -14,21 +14,45 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-![helix-logo](./helix_logo.png) <!-- this image is served from this content repository -->
+# Apple Card is Here.
+## A new kind of credit card. Created by Apple, not a bank.
 
-# Helix - entry(V2)
+![Apply]: http:www.google.com
 
-It works! entry is up and running.
+---
 
-## What's next?
+Apple Card completely rethinks everything about the credit card.
 
-1. Try editing `index.md` and see what happens.
-2. Try editing `src/html.htl` to change the HTML output
-3. Try editing `htdocs/style.css` to change the way this page looks
+It represents all the things Apple stands for. Like simplicity, transparency, and privacy.
 
-## And then?
+It builds on the incredible ease and security that millions of people love about Apple Pay.
 
-4. Commit your changes: `git commit -a`
-5. Publish your project to GitHub: `git remote add origin https://github.com/user/repo.git && git push`
-6. Deploy the project: `hlx deploy`
-7. Make it visible to the world: `hlx publish`
+And it’s the first card that actually encourages you to pay less interest.
+
+Whether you buy things with Apple Pay or with the laser‑etched titanium card, Apple Card can do things no other credit card can do.
+
+![Apple Card Image](card.jpg, "")
+---
+
+## The power of iPhone. In a credit card.
+
+Apple Card lives on your iPhone, in the Wallet app. And that makes all kinds of new things possible.
+
+You can sign up in no time and start using it right away with Apple Pay.1 For every purchase you make, you get Daily Cash. And it really is cash. So you can spend it however you want, right from your iPhone. Have a question? Just text. It’s that simple.
+
+![Apple Device](device.png)
+---
+
+## You'll know so much more about your spending. At a glance.
+
+See a charge you don’t recognize? Tap to pinpoint it on a map.2
+
+---
+
+Everything you buy gets a category and a color.
+
+  * ### Entertainment 
+  * ### Food & Drinks
+  * ### Shopping
+
+---
