@@ -28,8 +28,8 @@ It works! entry is up and running.
 
 ## And then?
 
-<link rel="prefetch" href="https://marquise.helix-demo.xyz/preTest"/>
-<link rel="prefetch" href="https://marquise.helix-demo.xyz/preTest2"/>
+<link rel="prefetch" href="https://marquise.helix-demo.xyz/MIC_CHECK"/>
+<link rel="prefetch" href="https://marquise.helix-demo.xyz/MIC_CHECK2"/>
 
 4. Commit your changes: `git commit -a`
 5. Publish your project to GitHub: `git remote add origin https://github.com/user/repo.git && git push`
