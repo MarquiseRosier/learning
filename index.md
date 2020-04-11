@@ -35,3 +35,5 @@ It works! entry is up and running.
 5. Publish your project to GitHub: `git remote add origin https://github.com/user/repo.git && git push`
 6. Deploy the project: `hlx deploy`
 7. Make it visible to the world: `hlx publish`
+
+https://soundcloud.com/cheryl-lin-fielding/chanson-pour-jeanne
