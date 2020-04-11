@@ -36,4 +36,5 @@ It works! entry is up and running.
 6. Deploy the project: `hlx deploy`
 7. Make it visible to the world: `hlx publish`
 
-[1](https://soundcloud.com/cheryl-lin-fielding/chanson-pour-jeanne)
+https://www.youtube.com/watch?v=KOxbO0EI4MA
+
